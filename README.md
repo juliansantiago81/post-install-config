@@ -64,6 +64,6 @@ To configure SLAs, follow the following steps:
 To configure new Help Topics asside from the ones currently implemented into osTicket you will need to follow the following steps:
 - Make sure you are in the Admin Panel > Click on the Manage tab > Help Topics > Add New Help Topic > Create a relavant topic that can be used such as "Personal Computer Issues" > Add Topic. 
 
-Congrats! That's all there is to it.
+Congrats! 🎉 That's all there is to it.
 </p>
 <br />

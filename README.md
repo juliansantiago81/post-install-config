@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 To configure Roles, Departments, and Teams, you will need to:
 
-- First make sure when you log in to osTicket, you are in the Admin panel.
+- First make sure when you log in to osTicket, you are in the Admin Panel.
 - To configure Roles, you will click on the Agents tab > Roles > Add New Role > Name your new role > Click on the Permissions tab and then choose your applicable permissions within the Tickets, Tasks, and Knowledgebase options > Save Changes.
 - To configure Departments, you will click on the Agents tab > Departments > Add New Department > Name your new department > Follow the options and update the Department Information as needed > Click Create Dept.
 - To configure Teams, you will click on the Agents tab > Teams > Add New Team > Name your new team > Click Members tab and decide who you want to be part of the team > Create Team.
@@ -36,22 +36,17 @@ To configure Roles, Departments, and Teams, you will need to:
 <img src="https://i.imgur.com/fJdvxtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, I will tell you how to create the agent or worker account. 
+Next, I will show you how to create an agent or worker account. 
 
-- Go to the Agents tab located in the upper level, next to th Emails tab.
-- Click on Agents on the tier below.
-- Click on "Add new agent."
-- Enter the name, email address, username, and password for the new agent account.
-- Choose the department and role that the new agent will be filling.
-- Give appropriate permissions to the new agent.
-- Select the team that the new agent will be a part of, if applicable.
+- Click on the Agents tab > Add new agent > Fill out agent information in Account tab. Access, Permissions, and Teams tabs.
+- Click on Access tab and choose the department and role that the new agent will be filling.
+- Click on Permissions tab and give appropriate permissions to the new agent.
+- Click on Teams and if applicable, select the team that the new agent will be a part of > Click Create.
 
-To add a user or customer to the platform, follow these simple steps:
+To configure a user or customer to the platform, follow these simple steps:
 
-- Go to the agent panel.
-- Click on Users.
-- Click on Add User.
-- Enter the name and email address for the new user account.
+- Make sure you are now in the Agent Panel NOT the Admin Panel.
+- Click on Users > Click on Add User > Enter the name and email address for the new user account.
 That's it!
 
 </p>

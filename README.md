@@ -56,6 +56,14 @@ That's it!
 <img src="https://i.imgur.com/XY9KrS8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order setup an SLA you will need to go to admin panel > manage > SLA > add new SLA plan > choose the name, grace period, and scheduale. You employer will have a specific set of guidlines and SLA's to follow, so use those when creating new SLA's. To create new help topics asside from the ones currently implemented into osTicket you will need to go to admin panel > manage > help topics > add new help topic > create a topic that can be used such as "personal computer issues" and thats all there is to it.
+To configure SLAs, follow the following steps:
+
+- Make sure you are in the Admin Panel > Click on the Manage tab > SLA > Add New SLA Plan > Name your new SLA, Grace Period, and Schedule.
+- Your employer will have a specific set of guidlines and SLA's to follow, so make sure you are using those settings.
+
+To configure new Help Topics asside from the ones currently implemented into osTicket you will need to follow the following steps:
+- Make sure you are in the Admin Panel > Click on the Manage tab > Help Topics > Add New Help Topic > Create a relavant topic that can be used such as "Personal Computer Issues" > Add Topic. 
+
+Congrats! That's all there is to it.
 </p>
 <br />
